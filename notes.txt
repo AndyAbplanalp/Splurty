@@ -1,0 +1,7 @@
+rails generate controller quotes - use plural when creating controllers
+rails generate model quote - creates model and migration file
+rake db:migrate - creates Postgres DB and pulls in table/fields
+bundle install - run every time gems added to Gemfile
+application.html.erb - contains things shared across all pages
+position elements using bootstap grid system
+CSS has two parts - properties and matchers
