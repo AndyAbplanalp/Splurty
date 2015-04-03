@@ -1,3 +1,4 @@
+
 .clear {
 	clear:both;
 }
@@ -36,10 +37,20 @@
 	color:black;
 	font-size: 25px;
 	border-bottom: 1px solid #d7f70c;
+	font-family: 'open_sansregular', sans-serif;
+	font-weight: bold;
 }
 header {
 	border-top: 9px solid #222222;
 }
 hr {
 	clear:both;
+}
+h1 {
+  font-family: 'open_sansregular', sans-serif;
+  font-sixe: 48px;
+}
+h2 {
+  font-family: 'open_sansitalic', sans-serif;
+  font-weight: bold;
 }
